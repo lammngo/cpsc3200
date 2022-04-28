@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{855E90A2-7E1B-4A4F-9CB2-1EF529DBF211}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1/gridFlea.cs">
+    <Files>
+      <File FileName="Project1/P1.cs" Line="18" Column="1" />
+      <File FileName="Project1/gridFlea.cs" Line="151" Column="4" />
+      <File FileName="Project1/gridFleaNUnitTests.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project1" expanded="True">
+            <Node name="Project1" expanded="True">
+              <Node name="gridFlea.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>gridFleaNUnitTests/gridFleaNUnitTests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

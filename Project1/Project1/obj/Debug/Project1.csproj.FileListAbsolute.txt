@@ -1,0 +1,13 @@
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/Project1.exe
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/Project1.pdb
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/Project1.csproj.AssemblyReference.cache
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/Project1.csproj.CoreCompileInputs.cache
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/Project1.exe
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/Project1.pdb
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/Project1.csproj.CopyComplete
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/gridFlea.cs
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/P1.cs
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/Project1.exe.config
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/Project1.exe.config
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/nunit.framework.dll
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/nunit.framework.xml

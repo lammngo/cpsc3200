@@ -1,0 +1,15 @@
+/Users/lolitakim/cpsc3200/Project3/p3/p3/bin/Debug/net6.0/p3
+/Users/lolitakim/cpsc3200/Project3/p3/p3/bin/Debug/net6.0/p3.deps.json
+/Users/lolitakim/cpsc3200/Project3/p3/p3/bin/Debug/net6.0/p3.runtimeconfig.json
+/Users/lolitakim/cpsc3200/Project3/p3/p3/bin/Debug/net6.0/p3.dll
+/Users/lolitakim/cpsc3200/Project3/p3/p3/bin/Debug/net6.0/p3.pdb
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.csproj.AssemblyReference.cache
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.AssemblyInfoInputs.cache
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.AssemblyInfo.cs
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.csproj.CoreCompileInputs.cache
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.dll
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/refint/p3.dll
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.pdb
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/p3.genruntimeconfig.cache
+/Users/lolitakim/cpsc3200/Project3/p3/p3/obj/Debug/net6.0/ref/p3.dll

@@ -1,0 +1,9 @@
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/nunit.framework.dll
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/nunit.framework.xml
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/P1.csproj.AssemblyReference.cache
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/P1.csproj.CoreCompileInputs.cache
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/P1.csproj.CopyComplete
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/P1.exe
+/Users/lolitakim/cpsc3200/Project1/Project1/bin/Debug/P1.pdb
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/P1.exe
+/Users/lolitakim/cpsc3200/Project1/Project1/obj/Debug/P1.pdb

@@ -1,0 +1,9 @@
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/bin/Debug/Test.cs
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/bin/Debug/gridFleaTests.dll
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/bin/Debug/gridFleaTests.pdb
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/bin/Debug/nunit.framework.xml
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/obj/Debug/gridFleaTests.csproj.AssemblyReference.cache
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/obj/Debug/gridFleaTests.csproj.CoreCompileInputs.cache
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/obj/Debug/gridFleaTests.csproj.CopyComplete
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/obj/Debug/gridFleaTests.dll
+/Users/lolitakim/cpsc3200/Project1/gridFleaTests/obj/Debug/gridFleaTests.pdb
