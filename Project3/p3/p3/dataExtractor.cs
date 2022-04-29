@@ -26,7 +26,7 @@ public class dataExtractor
     protected bool isActive = true;
 
     
-    public bool checkDuplicates(int[] arr)
+    private bool checkDuplicates(int[] arr)
     {
         for (int i = 0; i < arr.Length; i++)
         {
@@ -43,7 +43,7 @@ public class dataExtractor
         return isActive; 
     }
 
-    public int[] arrayAppend(int[] arr, int val)
+    protected int[] arrayAppend(int[] arr, int val)
     {
         int[] newArr = new int[arr.Length+1];
         for (int i = 0; i < arr.Length; i++)
@@ -70,7 +70,7 @@ public class dataExtractor
         return arr;
     }
 
-    public int[] target(uint z)
+    public virtual int[] target(uint z)
     {
         int zCounter = 0;
         int[] arr = {};
@@ -86,10 +86,9 @@ public class dataExtractor
             }
         }
         return arr;
-        
     }
-    
 
+    
     public int sum(uint z)
     {
         int total = 0;
@@ -102,5 +101,11 @@ public class dataExtractor
             total += i;
         }
         return total;
+    }
+
+    public bool IsActive()
+    {
+        return isActive;
+
     }
 }

@@ -2,7 +2,7 @@ namespace p3;
 
 public class dataHalf : dataExtractor
 {
-    public dataHalf(int[] xArray) : base(xArray)
+    public dataHalf(int[] xArr) : base(xArr)
     {
         if (!isActive) return;
         for (int i = 0; i < xArray.Length; i++)
@@ -17,7 +17,7 @@ public class dataHalf : dataExtractor
         }
     }
     private int bound;
-    private int callCounter = 0;
+    private int callCounter;
     private int[] oddArray = {};
 
     public override int[] any()
